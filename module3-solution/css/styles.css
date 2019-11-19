@@ -11,9 +11,30 @@ body {
 
 #page_heading {
 	color: #17202A;
+	margin-bottom: 15px;
 }
 
 #tall_section{
 	background-color: #F9E79F;
 	color: #17202A;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+	background-color: #FF5733;
+	text-align: center;
 }
